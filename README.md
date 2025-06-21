@@ -1,20 +1,24 @@
 # Dicee-Anime-Roll-Game
 Welcome to the Dicee Anime Roll Game — a modern, soft pastel-themed dice game built using HTML, CSS, and JavaScript. This project is inspired by the Dicee mini-game created during the Web Development Bootcamp by Angela Yu. However, the visual styling, layout, and interactivity were redesigned entirely to reflect a custom aesthetic.
+
 🌟 Features
     • Clean, anime-inspired background with custom color palette
     • Smooth, responsive layout
     • Two-player dice roll logic
     • Animated roll button ("Roll Again") with hover effects
     • Dynamic winner display based on dice outcome
+
 📊 Technologies Used
     • HTML5
     • CSS3 (with gradients, shadows, blur effects, and flexbox)
     • JavaScript (DOM manipulation)
+
 🔄 How to Play
     • Open the page in your browser.
     • Click the "Roll Again" button.
     • Two dice roll randomly.
     • The result (Player 1 Wins, Player 2 Wins, or Draw) is shown at the top.
+
 🎨 Customization
 Background image: Replace anime img.jpg in /images/ folder.
 Dice images: Replace files dice1.png to dice6.png in the same folder.

@@ -48,7 +48,7 @@ Welcome to the **Dicee Anime Roll Game** — a modern, soft pastel-themed dice g
 
 ## 🎯 Live Demo
 
-*Coming soon...*
+[Dicee Anime Roll Game](https://linnetdev.github.io/Dicee-Anime-Roll-Game/)
 
 ---
 
